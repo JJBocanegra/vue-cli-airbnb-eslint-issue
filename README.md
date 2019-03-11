@@ -1,4 +1,4 @@
-# leroy-empleados
+# project
 
 ## Project setup
 ```
